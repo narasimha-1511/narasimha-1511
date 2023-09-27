@@ -47,9 +47,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/narasimha-1511/narasimha-1511/output/snake.svg" alt="Snake animation" />
-
-###
