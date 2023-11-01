@@ -8,6 +8,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=narasimha-1511&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![@narasimha's Holopin board](https://holopin.io/api/user/board?user=narasimha-1511)](https://holopin.io/@narasimha1511)
+[![An image of @narasimha1511's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/narasimha1511)](https://holopin.io/@narasimha1511)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
